@@ -64,6 +64,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [[params.skills]]
       icon = "fa-university"
       title = "Magna Etiam"
+      description = "New College of Florida"
 
     [[params.skills]]
       icon = "fa-pencil"
@@ -73,10 +74,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [[params.skills]]
       icon = "fa-code"
       title = "Nulla Tempus"
+      description = "a little R + web design EXP (as evidenced by the existence of this site)"
 
     [[params.skills]]
       icon = "fa-music"
       title = "Sed Feugiat"
+      description = "play cello, piano, and sing in choir"
+      
   # infos section
   [params.infos]
     enable = true
