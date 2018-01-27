@@ -51,7 +51,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.about]
     enable = true
     title = "Who am I"
-    description = "My name is Adam Reinschmidt, and I am a cellist and student at New College of Florida. Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum."
+    description = "My name is Adam Reinschmidt, and I am a cellist and student at the New College of Florida in Sarasota, FL. I have been playing the cello for over 10 years; in addition, I have played piano for 11 years and sung in upper-level high school and collegiate choirs for nearly 3 years. I attended Roseville Area High School in Minnesota, where I played in our school's top Symphony Orchestra, as well as the Chamber Orchestra and multiple smaller ensembles. Over 3 years, I was among the top 3 seated cellists every time, and during my senior year served as the Principle Cellist and section leader. During this time, I had the opportunity to perform 2 featured solos: the first movement of Antonin Dvorak's Serenade for Strings in E Major, Op. 22, and an arrangement of Ralph Vaughan Williams' Fantasia on Greensleaves for Solo Cello, Flute, Harp and Chamber Orchestra."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "adam_grad_cello.jpg"
