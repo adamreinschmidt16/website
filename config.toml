@@ -16,8 +16,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # To provide more meta data for search engines. Feel free to add more information.
   # These lines will be inserted as meta tags.
-  name = "Your Name"
-  description = "Your Description"
+  name = "Adam Reinschmidt"
+  description = "An introductory and contact site for cellist and student Adam Reinschmidt."
 
   # For a static site it's not possible to provide a contact form. The contact form uses
   # www.formspree.io as a proxy. The form makes a Post request to their servers to send an email
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # - send a dummy email to yourself to confirm your account
   # - click the confirmation link in the email from www.formspree.io
   # - That's all. Enjoy mailing!
-  email = "your@mail.com"
+  email = "ajrcellist@gmail.com"
 
   # If this param is set to true, every section gets its own background image (located at static/images)
   # to change the image you could use the param picture on every section.
