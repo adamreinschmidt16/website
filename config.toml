@@ -30,11 +30,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # - send a dummy email to yourself to confirm your account
   # - click the confirmation link in the email from www.formspree.io
   # - That's all. Enjoy mailing!
-<<<<<<< HEAD
   email = "ajrcellist@gmail.com"
-=======
-  email = "ajrcellist@gmail.com"
->>>>>>> 71cec0163304c2582b0eb7047e74758464ccf3a3
+
 
   # If this param is set to true, every section gets its own background image (located at static/images)
   # to change the image you could use the param picture on every section.
