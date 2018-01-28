@@ -46,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Hero Section
   [params.hero]
     title = "Highlights"
-    description = "a fun little blah { responsive } single Pager by [HTML5UP](//html5up.net)"
+    description = "A Profile of Adam Reinschmidt"
     buttontext = "begin"
 
   # about section
