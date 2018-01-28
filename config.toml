@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://adam-reinschmidt.netlify.com/"
 languageCode = "en-us"
 title = "Highlights"
 theme = "hugo-highlights-theme"
@@ -7,6 +7,11 @@ theme = "hugo-highlights-theme"
 # Enter your tracking code to enable Google analytics
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[social]
+
+    linkedin = "https://www.linkedin.com/in/adam-reinschmidt-920355158"
+
 [params]
 
   # You can use Markdown for urls [text](//domain.tld/source)
@@ -57,38 +62,38 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.skill_list]
     enable = true
     title = "Stuff I do"
-    description = "Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate."
+    description = "I'm currently in my 2nd year at the New College of Florida, and I plan to major in both Biology and Environmental Studies. I still remain very active in the college music program, however; I sing bass/baritone in the New College Chorus, and I helped found the New College Chamber Music Group, where I play both piano and cello. Outside of music performence and academics, I'm a voracious music, film and video game nerd; I love to read books and magezines, especially Smithsonian and works by Cormac McCarthy, John Steinbeck, John Muir, and Michael Crichton. I love camping, hiking, canoeing, and anything else that gets met into the wilderness."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic02.jpg"
+    picture = "widjiAE_centershot.jpg"
 
     [[params.skills]]
       icon = "fa-university"
-      title = "Magna Etiam"
+      title = "Student"
       description = "New College of Florida"
 
     [[params.skills]]
-      icon = "fa-pencil"
-      title = "Lorem Ipsum"
-      description = "student teacher"
+      icon = "fa-graduation-cap"
+      title = "Acedemic Plans"
+      description = "Planning on double-concentration in Biology and Environmental Studies"
 
     [[params.skills]]
-      icon = "fa-code"
-      title = "Nulla Tempus"
-      description = "a little R + web design EXP (as evidenced by the existence of this site)"
+      icon = "fa-tree"
+      title = "Wilderness"
+      description = "I am also a wilderness enthusiast- I love camping, hiking, canoeing, etc."
 
     [[params.skills]]
       icon = "fa-music"
-      title = "Sed Feugiat"
-      description = "play cello, piano, and sing in choir"
+      title = "Music"
+      description = "I play cello, piano, and sing bass in choir"
       
   # infos section
   [params.infos]
     enable = true
     title = "One more thing"
-    description = "Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum."
+    description = "Along with playing cello and piano for many years, I also taught for three years at the Roseville District Summer Orchestra Camp, between 9th, 10th and 11th grade; I served as an assistant and instuctor for students ranging from 3-4th grade beginners to advanced students entering high school, helping teach music theory and performance skills and techniques. In addition to teaching, I myself have taken several courses studying music theory. If anyone in the Roseville or Sarasota area would be interested in beginner cello or music tutoring, please feel free to contact me. Additionally, If anyone would be interested in my performance services, please fill out the contact form below, and I will email you back as soon as possible. In addition to small and large ensembles, I have substantial solo performance and accompaniment experience for both cello and piano."
     # the picture is stored at static/images/
-    picture = "pic03.jpg"
+    picture = "black_and_white_cello_profile.jpg"
 
   # footer section
   # this section includes
@@ -118,29 +123,34 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
       [[params.footer.social]]
         title = "Twitter"
-        icon = "fa-twitter"
+        icon = "none"
         link = "#"
 
       [[params.footer.social]]
         title = "Facebook"
-        icon = "fa-facebook"
+        icon = "none"
         link = "#"
 
       [[params.footer.social]]
-        title = "Instagramm"
-        icon = "fa-instagram"
-        link = "#"
+        title = "LinkedIn"
+        icon = "fa-linkedin"
+        link = "https://www.linkedin.com/in/adam-reinschmidt-920355158"
 
       [[params.footer.social]]
         title = "Dribbble"
-        icon = "fa-dribbble"
+        icon = "none"
         link = "#"
 
       [[params.footer.social]]
         title = "Email"
-        icon = "fa-envelope"
+        icon = "none"
         link = "#"
-
+      
+      [[params.footer.social]]
+        title = "Instagram"
+        icon = "none"
+        link = "#"
+      
     # copyright
     #[params.footer.copyright.notice]
 
