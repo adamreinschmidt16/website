@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://adam-reinschmidt.netlify.com/"
 languageCode = "en-us"
-title = "Highlights"
+title = "Highlights | A Profile of Adam Reinschmidt"
 theme = "hugo-highlights-theme"
 
 # Enter your tracking code to enable Google analytics
@@ -11,6 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [social]
 
     linkedin = "https://www.linkedin.com/in/adam-reinschmidt-920355158"
+    github = "https://github.com/adamreinschmidt16"
 
 [params]
 
@@ -137,9 +138,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         link = "https://www.linkedin.com/in/adam-reinschmidt-920355158"
 
       [[params.footer.social]]
-        title = "Dribbble"
-        icon = "none"
-        link = "#"
+        title = "Github"
+        icon = "fa-github"
+        link = "https://github.com/adamreinschmidt16"
 
       [[params.footer.social]]
         title = "Email"
